@@ -1,1 +1,2 @@
-# discord-bot
+# Discord-botti
+Tehdään discord bot
